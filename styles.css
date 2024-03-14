@@ -36,6 +36,19 @@ main {
     margin: 30px auto;
 }
 
+footer {
+    margin: 20px;
+}
+
+footer p {
+    color:#a1a1a1;
+}
+
+footer a {
+    color:#262626;
+    text-decoration: none;
+}
+
 #titulo {
     margin-bottom: 30px;
 }
