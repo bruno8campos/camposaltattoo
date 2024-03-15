@@ -1,5 +1,5 @@
 # camposaltattoo
 
-#### Projeto de Portifolio
+#### Projeto de Portfólio
 
 Entre no Gh-Pages branch para ver o projeto.
