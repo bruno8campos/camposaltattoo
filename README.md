@@ -2,4 +2,6 @@
 
 #### Projeto de Portfólio
 
-Entre no Gh-Pages branch para ver o projeto.
+Em construção.
+
+Utilizei HTML, CSS e Vanilla Javascript
